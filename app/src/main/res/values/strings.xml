@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">No:15_Network(I/O)</string>
+    <string name="xml_URL">網址：</string>
+    <string name="xml_download">下載</string>
+</resources>
